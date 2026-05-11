@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">viewPagerProject</string>
+    <string name="spain">Spain</string>
+    <string name="new_york">New york</string>
+    <string name="switzerland">Switzerland</string>
+    <string name="singapore">Singapore</string>
+    <string name="paris">Paris</string>
+    <string name="tokyo">Tokyo</string>
+
+    <string name="coban_rondo">Coban Rondo </string>
+    <string name="gunung_bromo">Gunung Bromo </string>
+    <string name="gunung_semeru">Gunung Semeru </string>
+    <string name="kawah_ijen">Kawah Ijen</string>
+    <string name="pantai_balekambang">Pantai Balekambang </string>
+    <string name="sumber_sira">Sumber Sira </string>
+    <string name="coban_rais">Coban Rais </string>
+    <string name="kebun_teh_wonosari">Kebun Teh Wonosari </string>
+    <string name="pantai_goa_china">Pantai Goa China </string>
+    <string name="selecta">Selecta </string>
+    <string name="taman_langit">Taman Langit </string>
+
+</resources>

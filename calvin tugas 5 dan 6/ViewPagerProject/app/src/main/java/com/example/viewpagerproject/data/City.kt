@@ -1,0 +1,13 @@
+package com.example.viewpagerproject.data
+
+import android.health.connect.MedicalResourceId
+import androidx.annotation.DrawableRes
+import androidx.annotation.StringRes
+
+
+
+data class City(
+    val id : Int,
+    @StringRes val nameResourceId: Int,
+    @DrawableRes val imageResourceId: Int,
+)
